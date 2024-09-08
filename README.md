@@ -1,6 +1,5 @@
-## **README.md Descontraído para o Seu Projeto MARVEL**
 
-### **Bem-vindo ao Universo Marvel da Programação!**
+### **Bem-vindo ao Universo Marvel da Programação - feito durante a imersao DEV com google GEMINI!**
 
 **O que é isso?**
 
